@@ -18,7 +18,7 @@ y está implementado en Python con las librerías **pandas**, **scikit-learn** y
 **Características clave (columnas):**
 
 - `uso_arma`: **Variable objetivo**. Categórica binaria (`"SI"` / `"NO"`).
-- `tipo` / `subtipo`: Categorías generales y específicas del delito (ej.: `"Robo"`, `"Hurto"`, `"Lesiones Dolosas"`).
+- `tipo` / `subtipo`: Categorías generales y específicas del delito (ej.: `"Robo"`, `"Hurto"`, `"Vialidad"`,`"Homicidios"`, `"Lesiones"`, `"Amenazas"`).
 - `barrio`: Barrio de CABA donde ocurrió el delito (48 barrios únicos).
 - `comuna`: Número de comuna (1 a 15).
 - `franja`: Franja horaria del delito (0 a 23, donde 0 = medianoche–1 AM, ..., 23 = 11 PM–medianoche).
