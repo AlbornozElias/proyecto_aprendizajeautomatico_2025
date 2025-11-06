@@ -41,3 +41,15 @@ y está implementado en Python con las librerías **pandas**, **scikit-learn** y
 **Licencia:** Creative Commons Atribución 4.0 Internacional (CC BY 4.0)  
 **Adquisición:** Los datos fueron descargados en formato `.xlsx` en abril de 2025, correspondientes al año completo **2022**.  
 **Actualización:** El dataset se publica mensualmente por la Dirección General de Estadística y Censos del Gobierno de la Ciudad.
+
+```
+proyecto_aprendizajeautomatico_2025/
+ ├── data/
+ │   ├── delitos_2022.xlsx # Dataset original del proyecto.
+ ├── docs/ # Documentación formal 
+ │   ├── Diccionario de Datos.pdf # Archivo pdf con el diccionario de datos.
+ │   ├── Propuesta Proyecto-Albornoz Elias.pdf # Primera entrega formal.
+ │   ├──Proyecto_Delitos_Informe_EDA # Informe detallado del EDA.
+ ├── src/ # Código fuente del proyecto (notebooks y scripts).
+ │   ├── proyecto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook de EDA (Análisis Exploratorio de Datos)
+ ├── README.md # Descripción completa del proyecto y dataset.
