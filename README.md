@@ -53,4 +53,5 @@ proyecto_aprendizajeautomatico_2025/
  │   ├── Proyecto_Delitos_Informe_Final.pdf # Informe detallado Final.
  ├── src/ # Código fuente del proyecto (notebooks y scripts).
  │   ├── proyecto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook de EDA (Análisis Exploratorio de Datos)
+ │   ├── proyectocompleto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook Final
  ├── README.md # Descripción completa del proyecto y dataset.
