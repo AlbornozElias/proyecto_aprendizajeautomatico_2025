@@ -49,7 +49,8 @@ proyecto_aprendizajeautomatico_2025/
  ├── docs/ # Documentación formal 
  │   ├── Diccionario de Datos.pdf # Archivo pdf con el diccionario de datos.
  │   ├── Propuesta Proyecto-Albornoz Elias.pdf # Primera entrega formal.
- │   ├──Proyecto_Delitos_Informe_EDA # Informe detallado del EDA.
+ │   ├── Proyecto_Delitos_Informe_EDA.pdf # Informe detallado del EDA.
+ │   ├── Proyecto_Delitos_Informe_Final.pdf # Informe detallado Final.
  ├── src/ # Código fuente del proyecto (notebooks y scripts).
  │   ├── proyecto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook de EDA (Análisis Exploratorio de Datos)
  ├── README.md # Descripción completa del proyecto y dataset.
