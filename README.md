@@ -52,7 +52,7 @@ proyecto_aprendizajeautomatico_2025/
  │   ├── Proyecto_Delitos_Informe_EDA.pdf # Informe detallado del EDA.
  │   └── Proyecto_Delitos_Informe_Final.pdf # Informe detallado Final.
  ├── media/ # Presentacion del proyecto final.
- │   └──  Link_Video_Parcial_Albornoz_Elias.txt
+ │   └──  Link_Video_Parcial_Albornoz_Elias.txt # Contiene el link del video en Google Drive.
  ├── src/ # Código fuente del proyecto (notebooks y scripts).
  │   ├── proyecto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook de EDA (Análisis Exploratorio de Datos)
  │   └── proyectocompleto_aprendizajeautomatico_2025_Albornoz_Elias.ipynb # Notebook Final
